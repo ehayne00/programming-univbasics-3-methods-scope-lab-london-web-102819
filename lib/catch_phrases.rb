@@ -1,6 +1,6 @@
 $status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 def mario
-  phrase = 
+  phrase = ''
   puts status
   puts phrase
 end
